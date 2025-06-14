@@ -1,6 +1,6 @@
 ## 👋 Hello & Welcome to my GitHub,
 
-I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipelines that solving complex business problems with the Azure & AWS tech stack.
+I'm **Tarab Shaikh**, a **Data Engineer** who is currently busy building scalable data pipelines that solving complex business problems with the Azure & AWS tech stack.
 
 ### 🎯 Currently exploring:
 
