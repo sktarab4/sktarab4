@@ -1,10 +1,10 @@
 ## 👋 Hello & Welcome to my GitHub,
 
-I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipelines that solving complex business problems with the Azure tech stack.
+I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipelines that solving complex business problems with the Azure & AWS tech stack.
 
 ### 🎯 Currently exploring:
 
-* Building data pipelines that are — fast, reliable, and scalable
+* Building data pipelines that are - fast, reliable, and scalable
 
 * Making sure data isn’t just big, but also clean, trustworthy, and ready for action
 
@@ -14,7 +14,7 @@ I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipel
 
 * Azure Data Engineering tools (ADF, Synapse, Databricks, Unity Catalog, Auto Loader, Delta Live Tables)
 
-* Airflow, Snowflake & modern ETL/ELT frameworks
+* Databricks, Snowflake & modern ETL/ELT frameworks
 
 * Big Data strategies that actually deliver value
 
