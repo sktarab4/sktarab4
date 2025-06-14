@@ -1,6 +1,6 @@
-## Hello, I'm Tarab Shaikh 👋
+## Hello & Welcome to my GitHub
 
-Welcome to my GitHub - where raw data transforms into powerful insights! I'm a **Data Engineer** who loves building scalable data pipelines that solving complex business problems with the Azure tech stack.
+I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipelines that solving complex business problems with the Azure tech stack.
 
 ### 🎯 Cuurently exploring:
 
