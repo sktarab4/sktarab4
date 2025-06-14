@@ -31,5 +31,5 @@ I'm **Tarab Shaikh**, a **Data Engineer** who loves building scalable data pipel
 Working on something cool in data? 
 Hit me up - Always open to ideas, collaborations, or just geeking out about pipelines.
 
-📬 Email: sktarab4@gmail.com 
+📬 Email: sktarab4@gmail.com <br>
 🔗 LinkedIn: (https://www.linkedin.com/in/tarab-shaikh/)
